@@ -1,6 +1,11 @@
 //SPDX-License-Identifier: Unlicense
 pragma solidity ^0.7.0;
 
+// public - any contract and account can call
+// private - only inside the contract that defines the function
+// internal- only inside contract that inherits an internal function
+// external - only other contracts and accounts can call
+
 contract AboutFunction {
   uint[] public arr;
   // Functions can return multiple values.
