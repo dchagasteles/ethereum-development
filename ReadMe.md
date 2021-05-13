@@ -1,4 +1,13 @@
-# sodlity-tutorail
-this is a solidity development tutorial for Alis and David.
+### 
+Solidity is a statically typed, contract-oriented, high-level language for implement smart contracts on the Ethereum platform.
+This is a code-focused tutorial with detailed explanations and example codes.
 
-codes in /contracts folder are explaining about the solidity development.
+
+### 1. Learning Solidity Programming
+I started this repo for my friends who just started solidity development.
+But if you have experience with software development, you will be able to understand this easily.
+
+
+### Table of Contents
+1. Learning Solidity Programming
+2. Popular DeFi platforms
