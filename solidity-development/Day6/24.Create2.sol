@@ -1,6 +1,9 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.7.6;
 
+/**
+  Contract address can be precomputed, before the contract is deployed, using create2
+ */
 
 contract TestContract {
   address public owner;

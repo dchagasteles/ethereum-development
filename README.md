@@ -3,8 +3,9 @@ Solidity is a statically typed, contract-oriented, high-level language for imple
 
 #### [1. Learning Solidity Programming](/learn-solidity)
 You can learn solidity programming by examples
-- Level1 (Day1 ~ Day3)
-- Level2 (Day4 ~ Day6) 
+- Junior level (Day1 ~ Day3)
+- Medium level (Day4 ~ Day6)
+- Expert level (Day7 ~ Day9)
 
 #### 2. Popular DeFi platforms
 This explains popular DeFi platforms and their features.
