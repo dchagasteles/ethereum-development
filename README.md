@@ -7,5 +7,19 @@ You can learn solidity programming by examples
 - Medium level (Day4 ~ Day6)
 - Expert level (Day7 ~ Day9)
 
-#### 2. Popular DeFi platforms
-This explains popular DeFi platforms and their features.
+#### 2. Useful Solidity Development Environement and Framework
+- Use `Hardhat` for solidity development
+You can use Truffle.
+But it requires to setup & run test network environemnt using other tool like Ganache.
+But Truffle provides its embeded test network called "Hardhat"
+- Use `Coverage` for check missing logic and untested codes
+- Use `Waffle.js` for writing unit test
+
+*Using waffle within Hardhat (running waffle tests via a hardhat script) is what's recommended for development by Hardhat/NomicLabs*
+
+
+#### 3. Famous DeFi Platforms
+
+#### 4. Governance
+
+#### 5. Chainlink
