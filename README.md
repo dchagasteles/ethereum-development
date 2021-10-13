@@ -15,7 +15,7 @@ But Truffle provides its embeded test network called "Hardhat"
 - Use [Coverage](https://hardhat.org/plugins/solidity-coverage.html) for check missing logic and untested codes
 - Use [Waffle.js](https://hardhat.org/guides/waffle-testing.html) for writing unit test
 
-*Using waffle within Hardhat (running waffle tests via a hardhat script) is what's recommended for development by Hardhat/NomicLabs*
+  *Using waffle within Hardhat (running waffle tests via a hardhat script) is what's recommended for development by Hardhat/NomicLabs*
 
 
 #### 3. Chainlink
