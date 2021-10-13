@@ -18,8 +18,8 @@ But Truffle provides its embeded test network called "Hardhat"
 *Using waffle within Hardhat (running waffle tests via a hardhat script) is what's recommended for development by Hardhat/NomicLabs*
 
 
-#### 3. Famous DeFi Platforms
+#### 3. Chainlink
 
 #### 4. Governance
 
-#### 5. Chainlink
+#### 5. Famous DeFi Platforms
