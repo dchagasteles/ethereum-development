@@ -8,11 +8,11 @@ You can learn solidity programming by examples
 - Expert level (Day7 ~ Day9)
 
 ### 2. Ethereum knowledge
-- Day1: [Price Oracle](/ethereum/price-oracle.md)
-- Day2: [AMM](/ethereum/AMM.md)
-- Day3: [Popular attacks](/ethereum/attacks.md)
-- Day4: [DAO]
-- Day5: [Governance]
+- Day10: [Price Oracle](/ethereum/price-oracle.md)
+- Day11: [AMM](/ethereum/AMM.md)
+- Day12: [Popular attacks](/ethereum/attacks.md)
+- Day13: [DAO]
+- Day14: [Governance]
 
 ### 3. [Hardhat Starter Project](/hardhat)
 This is a very useful hardhat starter project with below packages.
