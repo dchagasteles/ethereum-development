@@ -19,14 +19,14 @@ You can learn solidity programming by examples
 
 ### 4. Ethereum development knowledge
 
-1) Defi
+#### Defi
 Decentralized Finance is a blockchain-based form of finance that does not rely on central financial intermediaries such as brokerages, exchanges, or banks to offer traditional financial instruments, and instead utilizes smart contracts on blockchains, the most common being Ethereum
 
 - [price-oracle](/defi/price-oracle.md)
 - [AMM](/defi/AMM.md)
 
-2) DAO & Governance
+#### DAO & Governance
 - DAO
 - Governance
 
-3) Popular attacks
+#### Popular attacks
