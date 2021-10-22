@@ -15,20 +15,9 @@ These are the useful tools & pacakages for ethereum/smart contract development.
 - Use [Waffle.js](https://hardhat.org/guides/waffle-testing.html) for writing unit test
   *Using waffle within Hardhat (running waffle tests via a hardhat script) is what's recommended for development by Hardhat/NomicLabs*
 
-### 3. Smart Contract Development
-- OpenZeppelin
-- Chainlink
-
-### 4. Ethereum development knowledge
-
-#### Defi
-Decentralized Finance is a blockchain-based form of finance that does not rely on central financial intermediaries such as brokerages, exchanges, or banks to offer traditional financial instruments, and instead utilizes smart contracts on blockchains, the most common being Ethereum
-
+### 3. Ethereum/Smart Contract knowledge
 - [price-oracle](/defi/price-oracle.md)
 - [AMM](/defi/AMM.md)
-
-#### DAO & Governance
+- [Popular attacks](/defi/attacks.md)
 - DAO
 - Governance
-
-#### Popular attacks
