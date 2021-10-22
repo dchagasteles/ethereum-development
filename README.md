@@ -7,16 +7,16 @@ You can learn solidity programming by examples
 - Medium level (Day4 ~ Day6)
 - Expert level (Day7 ~ Day9)
 
-### 2. [Hardhat Starter Project](/hardhat)
-These are the useful tools & pacakages for ethereum/smart contract development.
-- Use [Hardhat](https://hardhat.org/) for smart contract development.
-- Use [solhint](hardhat-framework-master.zip) for solidity coding.
-- Use [Coverage](https://hardhat.org/plugins/solidity-coverage.html) for check missing logic and untested codes
-- Use [Waffle.js](https://hardhat.org/guides/waffle-testing.html) for writing unit test
+### 2. Ethereum knowledge
+- Day1: [Price Oracle](/ethereum/price-oracle.md)
+- Day2: [AMM](/ethereum/AMM.md)
+- Day3: [Popular attacks](/ethereum/attacks.md)
+- Day4: [DAO]
+- Day5: [Governance]
 
-### 3. Ethereum/Smart Contract knowledge
-- [Price Oracle](/ethereum/price-oracle.md)
-- [AMM](/ethereum/AMM.md)
-- [Popular attacks](/ethereum/attacks.md)
-- [DAO]
-- [Governance]
+### 3. [Hardhat Starter Project](/hardhat)
+This is a very useful hardhat starter project with below packages.
+- [Hardhat](https://hardhat.org/) for smart contract development.
+- [solhint](hardhat-framework-master.zip) for solidity coding.
+- [Coverage](https://hardhat.org/plugins/solidity-coverage.html) for check missing logic and untested codes
+- [Waffle.js](https://hardhat.org/guides/waffle-testing.html) for writing unit test
