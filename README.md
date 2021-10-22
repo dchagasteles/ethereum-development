@@ -12,8 +12,8 @@ Solidity is a statically typed, contract-oriented, high-level language for imple
 ### 2. Ethereum knowledge
 Solidity is not all of Ethereum. Belows are the helpful ethereum knowledge you should know to become an expert in this industry.
 
-- Day10: [Price Oracle](/ethereum/price-oracle.md)
-- Day11: [AMM](/ethereum/AMM.md)
+- Day10: [AMM](/ethereum/AMM.md)
+- Day11: [Price Oracle](/ethereum/price-oracle.md)
 - Day12: [Popular attacks](/ethereum/attacks.md)
 - Day13: [DAO]
 - Day14: [Governance]
