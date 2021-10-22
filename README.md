@@ -13,11 +13,10 @@ These are the useful tools & pacakages for ethereum/smart contract development.
 - Use [solhint](hardhat-framework-master.zip) for solidity coding.
 - Use [Coverage](https://hardhat.org/plugins/solidity-coverage.html) for check missing logic and untested codes
 - Use [Waffle.js](https://hardhat.org/guides/waffle-testing.html) for writing unit test
-  *Using waffle within Hardhat (running waffle tests via a hardhat script) is what's recommended for development by Hardhat/NomicLabs*
 
 ### 3. Ethereum/Smart Contract knowledge
-- [price-oracle](/defi/price-oracle.md)
-- [AMM](/defi/AMM.md)
-- [Popular attacks](/defi/attacks.md)
-- DAO
-- Governance
+- [Price Oracle](/ethereum/price-oracle.md)
+- [AMM](/ethereum/AMM.md)
+- [Popular attacks](/ethereum/attacks.md)
+- [DAO]
+- [Governance]
