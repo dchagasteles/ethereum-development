@@ -18,7 +18,10 @@ But Truffle provides its embeded test network called "Hardhat"
   *Using waffle within Hardhat (running waffle tests via a hardhat script) is what's recommended for development by Hardhat/NomicLabs*
 
 
-#### 3. Chainlink
+#### [3. Defi](/defi)
+Decentralized Finance is a blockchain-based form of finance that does not rely on central financial intermediaries such as brokerages, exchanges, or banks to offer traditional financial instruments, and instead utilizes smart contracts on blockchains, the most common being Ethereum
+
+
 
 #### 4. Governance
 
