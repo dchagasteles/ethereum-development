@@ -35,7 +35,7 @@ contract BasicInfo {
   }
 
   function aboutLoop() public {
-    for (uint i=0; i < 10; i++) {
+    for (uint i = 0; i < 10; i++) {
       if (i  < 5) {
         continue;
       } else {
@@ -44,7 +44,7 @@ contract BasicInfo {
     }
 
     uint j;
-    while (j<10) {
+    while (j < 10) {
       j++;
     }
   }

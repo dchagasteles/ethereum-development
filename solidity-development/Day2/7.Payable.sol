@@ -27,13 +27,13 @@ contract Payable {
 
     // send all Ether to owner
     // Owner can receive Ether since the address of owner is payable
-    (bool, success) = owner.call{value: amount}('');
+    (bool success, ) = owner.call{value: amount}('');
     require(success, 'Failed to send Ether');
   }
 
   // Function to transfer Ether from this contract to address from input
   function transfer(address payable _to, uint _amount) public {
-    (bool, success) = _to.call{value: _amount}('');
+    (bool success, ) = _to.call{value: _amount}('');
     require(success, 'Failed to send Ether');
   }
 }
