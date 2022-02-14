@@ -10,7 +10,7 @@ contract AboutFunction {
   uint[] public arr;
   // Functions can return multiple values.
   function returnMany() public pure returns (uint, bool, uint) {
-    return (1, treu, 2);
+    return (1, true, 2);
   }
 
   // Return values can be named.
