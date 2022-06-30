@@ -48,7 +48,6 @@ AMM, the biggest market in DEX, is a system that provides liquidity for auto tra
 - Progress: Buy back, Gassless Voting, Shadow Tokens, Origin Pools, Fiat Ramp, Limit Orders, Trader Incentives and UX, New LP pools, Arbitrum, Rewards Re-Stacking, etc
 
 ### Aave Vs Compound
-- with the passage of time, aToken balance is being increased
-2. Compound
-- when withdrawing cTokens, rate is being increased.
+- In Aave, with the passage of time, aToken balance is being increased
+- In Compound, when withdrawing cTokens, rate is being increased.
 
