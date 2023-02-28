@@ -1,14 +1,16 @@
 ## Table of Contents
 
-# [Learning Solidity Programming](/Solidity)
+## [Learning Solidity Programming](/Solidity)
 
 Solidity is a statically typed, contract-oriented, high-level language for implement smart contracts on the Ethereum platform. This is a code-focused tutorial with detailed explanations and example codes.
+
+### Tutorials
 
 - Junior level (Day1 ~ Day3)
 - Medium level (Day4 ~ Day6)
 - Expert level (Day7 ~ Day9)
 
-## Smart Contracts Development (must read)
+### Smart Contracts Development (must read)
 
 - Cryptozombies
   https://cryptozombies.io/
@@ -18,11 +20,11 @@ Solidity is a statically typed, contract-oriented, high-level language for imple
 - Solidity
   https://docs.soliditylang.org/en/v0.8.9/
 
-# Ethereum
+## Ethereum
 
 Solidity is not all of Ethereum. Belows are the helpful ethereum knowledge you should know to become an expert in this industry.
 
-## Learning Ethereum (must read):
+### Learning Ethereum (must read):
 
 - Start by learning Ethereum here:
   https://ethereum.org/en/
@@ -40,17 +42,7 @@ Solidity is not all of Ethereum. Belows are the helpful ethereum knowledge you s
 - Stay up to date with the latest Ethereum development
   https://weekinethereumnews.com/
 
-# [Knowledge](Defi)
-
-# [Trending Platforms](Platforms)
-
-You can review and understand easilly the most popular and trending ethereum projects.
-
-## DeFi Roadmap
-
-https://github.com/OffcierCia/DeFi-Developer-Road-Map
-
-## More Ethereum:
+### More Ethereum:
 
 - Collection of resources about all things related to Ethereum
   https://github.com/Scanate/EthList
@@ -58,3 +50,15 @@ https://github.com/OffcierCia/DeFi-Developer-Road-Map
 
 - Paradigm blog posts
   https://www.paradigm.xyz/
+
+## [Defi](Defi)
+
+## [Trending Platforms](Platforms)
+
+You can review and understand easilly the most popular and trending ethereum projects.
+
+## DeFi Roadmap
+
+https://github.com/OffcierCia/DeFi-Developer-Road-Map
+
+
