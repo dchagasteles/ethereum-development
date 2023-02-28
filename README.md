@@ -1,6 +1,6 @@
 ## Table of Contents
 
-### 1. [Learning Solidity Programming](/solidity-development)
+# [Learning Solidity Programming](/Solidity)
 
 Solidity is a statically typed, contract-oriented, high-level language for implement smart contracts on the Ethereum platform. This is a code-focused tutorial with detailed explanations and example codes.
 
@@ -8,21 +8,53 @@ Solidity is a statically typed, contract-oriented, high-level language for imple
 - Medium level (Day4 ~ Day6)
 - Expert level (Day7 ~ Day9)
 
-### 2. Ethereum knowledge
+## Smart Contracts Development (must read)
+
+- Cryptozombies
+  https://cryptozombies.io/
+
+- OpenZeppelin contracts
+  https://docs.openzeppelin.com/contracts/4.x/
+- Solidity
+  https://docs.soliditylang.org/en/v0.8.9/
+
+# Ethereum
 
 Solidity is not all of Ethereum. Belows are the helpful ethereum knowledge you should know to become an expert in this industry.
 
-- Day10: [AMM](/ethereum/AMM.md)
-- Day11: [Price Oracle](/ethereum/price-oracle.md)
-- Day12: [Popular attacks](/ethereum/attacks.md)
-- Day13: [DAO]
-- Day14: [Governance]
+## Learning Ethereum (must read):
 
-### 3. [Hardhat Starter Project](https://github.com/conlotor/hardhat-starter)
+- Start by learning Ethereum here:
+  https://ethereum.org/en/
 
-This is a very useful hardhat starter project with below packages.
-When you start smart contract development from scratch, i recommend you to start using this starter project.
+- Mastering Ethereum
+  https://github.com/ethereumbook/ethereumbook
 
-### 4. [Contracts](/contracts)
+- Ethereum beige paper, which simplifies the yellow paper available here:
+  https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf
 
-This includes several solidity/smart contract projects as examples.
+- Yellow paper
+  https://ethereum.github.io/yellowpaper/paper.pdf
+  (understand the white paper before attempting to read the yellow paper)
+
+- Stay up to date with the latest Ethereum development
+  https://weekinethereumnews.com/
+
+# [Knowledge](Defi)
+
+# [Trending Platforms](Platforms)
+
+You can review and understand easilly the most popular and trending ethereum projects.
+
+## DeFi Roadmap
+
+https://github.com/OffcierCia/DeFi-Developer-Road-Map
+
+## More Ethereum:
+
+- Collection of resources about all things related to Ethereum
+  https://github.com/Scanate/EthList
+  (this list is awesome but a little overwhelming)
+
+- Paradigm blog posts
+  https://www.paradigm.xyz/

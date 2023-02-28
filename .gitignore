@@ -7,3 +7,5 @@ artifacts
 .DS_Store
 
 draft
+
+.vscode
