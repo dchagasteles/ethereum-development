@@ -24,3 +24,6 @@ PDAs are particularly useful for creating addresses that need to interact with s
 
 ## Degen
 **Degen** is a slang term in the cryptocurrency and DeFi communities referring to someone who engages in high-risk, speculative trading or investing, often with little regard for due diligence or the potential for losses. The term is short for "degenerate," highlighting the reckless nature of such behavior.
+
+## CDP
+At its core, a **Collateralized Debt Position (CDP)** is a **smart contract-based system** that enables users to lock up their cryptocurrency holdings as **collateral** to generate **loans** in the form of stablecoins or other tokens.
