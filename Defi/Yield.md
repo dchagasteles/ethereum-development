@@ -46,8 +46,3 @@
 
 - pay fees (for borrowing assets from lending platofrm) with yields from yield farming.
 - Alchemix
-
-## Anchor Protocol
-
-- better yield
-- Using diversified staking yields, money markets and the ANC token incentives and governance, the Anchor Protocol composes a fully decentralized fixed income instrument.  
