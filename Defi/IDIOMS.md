@@ -27,3 +27,6 @@ PDAs are particularly useful for creating addresses that need to interact with s
 
 ## CDP
 At its core, a **Collateralized Debt Position (CDP)** is a **smart contract-based system** that enables users to lock up their cryptocurrency holdings as **collateral** to generate **loans** in the form of stablecoins or other tokens.
+
+## Bonding
+**"bonding"** generally refers to a mechanism that **locks up** a certain amount of cryptocurrency or tokens as a security deposit to ensure the performance of certain actions or to secure participation in a network.
