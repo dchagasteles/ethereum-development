@@ -30,3 +30,12 @@ At its core, a **Collateralized Debt Position (CDP)** is a **smart contract-base
 
 ## Bonding
 **"bonding"** generally refers to a mechanism that **locks up** a certain amount of cryptocurrency or tokens as a security deposit to ensure the performance of certain actions or to secure participation in a network.
+
+## What are the primary layers of blockchain technology?
+Blockchain consists of **five** layers: **hardware infrastructure**, **data**, **network**, **consensus**, and **application layers**. These layers handle functions from **data storage to user-facing applications**.
+
+## What are the key differences between blockchain layers 0, 1, 2, and 3?
+1. **Layer 0** includes foundational elements like hardware and protocols.
+2. **Layer 1** maintains dispute resolution, consensus mechanisms, and blockchain programming (e.g., Bitcoin, Ethereum).
+3. **Layer 2** offers better scaling capabilities and third-party integration.
+4. **Layer 3** hosts decentralized applications (dApps) and user-facing applications.ss
