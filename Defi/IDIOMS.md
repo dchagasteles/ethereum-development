@@ -39,3 +39,6 @@ Blockchain consists of **five** layers: **hardware infrastructure**, **data**, *
 2. **Layer 1** maintains dispute resolution, consensus mechanisms, and blockchain programming (e.g., Bitcoin, Ethereum).
 3. **Layer 2** offers better scaling capabilities and third-party integration.
 4. **Layer 3** hosts decentralized applications (dApps) and user-facing applications.ss
+
+## Pre-sale and Merkle Tree
+**Merkle trees** provide a secure and efficient way to manage and verify transactions and data in **pre-sales**, ensuring transparency, integrity, and scalability in the token distribution process.
