@@ -1,5 +1,3 @@
-
-
 # Basic knowledge
 
 ## option trading
@@ -13,6 +11,22 @@
   a specific amount of crypto
   at predetermined price (strike price)
   within a period of time
+
+- Buying Call Options
+  Traders buy call options if they believe the price of an asset will rise.
+  If the price does go up above the strike price plus the premium paid, they can profit by selling the option at a higher price or exercising it to buy the asset at a lower price than the current market price.
+
+- Buying Put Options
+  Traders buy put options if they believe the price of an asset will fall.
+  If the price does drop below the strike price minus the premium paid, they can profit by selling the option at a higher price or exercising it to sell the asset at a higher price than the current market price.
+
+- Selling Call Options
+  Traders can sell call options (write calls) if they believe the price of the asset will not rise above the strike price.
+  They collect the premium upfront and keep it as profit if the option expires worthless.
+
+- Selling Put Options
+  Traders can sell put options (write puts) if they believe the price of the asset will not fall below the strike price.
+  They collect the premium and keep it as profit if the option expires worthless.
 
 ## future trading
 
