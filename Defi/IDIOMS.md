@@ -42,3 +42,21 @@ Blockchain consists of **five** layers: **hardware infrastructure**, **data**, *
 
 ## Pre-sale and Merkle Tree
 **Merkle trees** provide a secure and efficient way to manage and verify transactions and data in **pre-sales**, ensuring transparency, integrity, and scalability in the token distribution process.
+
+## 0DTE ( zero-days-to-expiration )
+A **0DTE** option is an **options contract set to expire at the end of the current trading day**. Every options contract on an underlying optionable, index, stock, or ETF, whether it was issued a month ago or just last week, becomes a 0DTE on its expiration date.
+
+## At-The-Money
+**At the money (ATM)** is a **situation where an option's strike price is identical to the current market price of the underlying security**. An ATM option has a delta of ±0.50, positive if it is a call, negative for a put. Both call and put options can be simultaneously ATM.
+
+## European Option
+A **European option** is the **type of options contract that allows investors to exercise their options only on the expiration date of that contract**. The contract holder has the right to buy or sell the underlying securities for a specified price; it is known as the **strike price** of the option.
+
+## American Option
+An **American option** is a **style of options contract that allows holders to exercise their rights at any time before and including the expiration date**. An American-style option allows investors to capture profit as soon as the stock price moves favorably.
+
+## Underlying security
+**Underlying security** is a **term in investing that denotes the negotiable financial instrument upon which a financial derivative, such as an option on a stock – is based**. Therefore, the value of the underlying security also determines the value of its financial derivative.
+
+## Option Contract
+An **option contract** is a **promise to keep an offer open for another party to accept within a period of time**. With an option contract, the offeror is not permitted to revoke the offer within the stated period of time. Most option contracts require consideration and other contract formalities in order to be enforceable.
