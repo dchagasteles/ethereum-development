@@ -60,5 +60,3 @@ You can review and understand easilly the most popular and trending ethereum pro
 ## DeFi Roadmap
 
 https://github.com/OffcierCia/DeFi-Developer-Road-Map
-
-
